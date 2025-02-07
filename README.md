@@ -1,19 +1,16 @@
 # Aplication web desing
 
-[//]: # (Name: Juan Jesus Trejo Ruiz)
-[//]: # (Registration number: Al03049753)
-[//]: # (Degree: 3)
-[//]: # (Semester: 6)
-
+[//]: # 
 
 ## Markdown Tagging Options
 
 This section demonstrates common Markdown formatting elements:
 
 ```markdown
-# Heading 1
-## Heading 2
-### Heading 3
+# Name: Juan Jesus Trejo Ruiz
+## Semester: 6
+### Degree: 3
+#### Registration number: Al03049753
 
 **Bold Text**  
 *Italic Text*  
